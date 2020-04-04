@@ -1,0 +1,46 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"left_hand_10","bone":"root","attachment":"left_hand_10"},
+	{"name":"left_arm_lower_10","bone":"root","attachment":"left_arm_lower_10"},
+	{"name":"left_arm_upper_10","bone":"root","attachment":"left_arm_upper_10"},
+	{"name":"left_foot_10","bone":"root","attachment":"left_foot_10"},
+	{"name":"left_leg_lower_10","bone":"root","attachment":"left_leg_lower_10"},
+	{"name":"left_leg_upper_10","bone":"root","attachment":"left_leg_upper_10"},
+	{"name":"right_foot_10","bone":"root","attachment":"right_foot_10"},
+	{"name":"right_leg_lower_10","bone":"root","attachment":"right_leg_lower_10"},
+	{"name":"right_leg_upper_10","bone":"root","attachment":"right_leg_upper_10"},
+	{"name":"torso_10","bone":"root","attachment":"torso_10"},
+	{"name":"right_hand_10","bone":"root","attachment":"right_hand_10"},
+	{"name":"right_arm_lower_10","bone":"root","attachment":"right_arm_lower_10"},
+	{"name":"right_arm_upper_10","bone":"root","attachment":"right_arm_upper_10"},
+	{"name":"headbase_10","bone":"root","attachment":"headbase_10"},
+	{"name":"face_10","bone":"root","attachment":"face_10"},
+	{"name":"blood_12","bone":"root","attachment":"blood_12"},
+	{"name":"blood_11","bone":"root","attachment":"blood_11"},
+	{"name":"blood_10","bone":"root","attachment":"blood_10"}
+],
+"skins":{
+	"default":{
+		"left_hand_10":{"left_hand_10":{"x":574,"y":107,"width":70,"height":66}},
+		"left_arm_lower_10":{"left_arm_lower_10":{"x":561.5,"y":150,"width":31,"height":78}},
+		"left_arm_upper_10":{"left_arm_upper_10":{"x":529,"y":220.5,"width":78,"height":91}},
+		"left_foot_10":{"left_foot_10":{"x":563.5,"y":16,"width":61,"height":36}},
+		"left_leg_lower_10":{"left_leg_lower_10":{"x":545,"y":42,"width":62,"height":66}},
+		"left_leg_upper_10":{"left_leg_upper_10":{"x":547,"y":105,"width":96,"height":96}},
+		"right_foot_10":{"right_foot_10":{"x":536.5,"y":3,"width":61,"height":36}},
+		"right_leg_lower_10":{"right_leg_lower_10":{"x":519,"y":32,"width":60,"height":66}},
+		"right_leg_upper_10":{"right_leg_upper_10":{"x":520,"y":93,"width":96,"height":96}},
+		"torso_10":{"torso_10":{"x":526.5,"y":185,"width":91,"height":160}},
+		"right_hand_10":{"right_hand_10":{"x":467.5,"y":107,"width":55,"height":52}},
+		"right_arm_lower_10":{"right_arm_lower_10":{"x":467,"y":153,"width":28,"height":78}},
+		"right_arm_upper_10":{"right_arm_upper_10":{"x":484.5,"y":219,"width":71,"height":84}},
+		"headbase_10":{"headbase_10":{"x":512.5,"y":357.5,"width":203,"height":261}},
+		"face_10":{"face_10":{"x":554.5,"y":360,"width":53,"height":108}},
+		"blood_12":{"blood_12":{"x":354.5,"y":420,"width":45,"height":24}},
+		"blood_11":{"blood_11":{"x":398,"y":459,"width":34,"height":26}},
+		"blood_10":{"blood_10":{"x":393.5,"y":499,"width":73,"height":44}}
+	}
+},
+"animations":{"animation":{}}
+}

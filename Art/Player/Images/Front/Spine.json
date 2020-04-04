@@ -1,0 +1,42 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"left_foot_00","bone":"root","attachment":"left_foot_00"},
+	{"name":"left_leg_lower_00","bone":"root","attachment":"left_leg_lower_00"},
+	{"name":"left_leg_upper_00","bone":"root","attachment":"left_leg_upper_00"},
+	{"name":"right_foot_00","bone":"root","attachment":"right_foot_00"},
+	{"name":"right_leg_lower_00","bone":"root","attachment":"right_leg_lower_00"},
+	{"name":"right_leg_upper_00","bone":"root","attachment":"right_leg_upper_00"},
+	{"name":"left_hand_00","bone":"root","attachment":"left_hand_00"},
+	{"name":"left_arm_lower_00","bone":"root","attachment":"left_arm_lower_00"},
+	{"name":"left_arm_upper_00","bone":"root","attachment":"left_arm_upper_00"},
+	{"name":"right_hand_00","bone":"root","attachment":"right_hand_00"},
+	{"name":"right_arm_lower_00","bone":"root","attachment":"right_arm_lower_00"},
+	{"name":"right_arm_upper_00","bone":"root","attachment":"right_arm_upper_00"},
+	{"name":"torso_00","bone":"root","attachment":"torso_00"},
+	{"name":"headbase_00","bone":"root","attachment":"headbase_00"},
+	{"name":"hair_00","bone":"root","attachment":"hair_00"},
+	{"name":"face_00","bone":"root","attachment":"face_00"}
+],
+"skins":{
+	"default":{
+		"left_foot_00":{"left_foot_00":{"x":577.5,"y":16,"width":61,"height":36}},
+		"left_leg_lower_00":{"left_leg_lower_00":{"x":560,"y":45,"width":62,"height":66}},
+		"left_leg_upper_00":{"left_leg_upper_00":{"x":560.5,"y":105.5,"width":95,"height":95}},
+		"right_foot_00":{"right_foot_00":{"x":492.5,"y":16,"width":61,"height":36}},
+		"right_leg_lower_00":{"right_leg_lower_00":{"x":508,"y":45,"width":62,"height":66}},
+		"right_leg_upper_00":{"right_leg_upper_00":{"x":505.5,"y":103.5,"width":95,"height":95}},
+		"left_hand_00":{"left_hand_00":{"x":616,"y":107,"width":56,"height":52}},
+		"left_arm_lower_00":{"left_arm_lower_00":{"x":618,"y":153,"width":20,"height":76}},
+		"left_arm_upper_00":{"left_arm_upper_00":{"x":603.5,"y":210.5,"width":81,"height":99}},
+		"right_hand_00":{"right_hand_00":{"x":456,"y":107,"width":56,"height":52}},
+		"right_arm_lower_00":{"right_arm_lower_00":{"x":458,"y":153,"width":20,"height":76}},
+		"right_arm_upper_00":{"right_arm_upper_00":{"x":468,"y":210.5,"width":80,"height":99}},
+		"torso_00":{"torso_00":{"x":535,"y":174,"width":120,"height":148}},
+		"headbase_00":{"headbase_00":{"x":540,"y":358.5,"width":262,"height":257}},
+		"hair_00":{"hair_00":{"x":507.5,"y":433,"width":387,"height":178}},
+		"face_00":{"face_00":{"x":532.5,"y":314.5,"width":133,"height":97}}
+	}
+},
+"animations":{"animation":{}}
+}

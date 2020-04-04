@@ -1,0 +1,38 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"right_foot_20","bone":"root","attachment":"right_foot_20"},
+	{"name":"right_leg_lower_20","bone":"root","attachment":"right_leg_lower_20"},
+	{"name":"right_leg_upper_20","bone":"root","attachment":"right_leg_upper_20"},
+	{"name":"left_foot_20","bone":"root","attachment":"left_foot_20"},
+	{"name":"left_leg_lower_20","bone":"root","attachment":"left_leg_lower_20"},
+	{"name":"left_leg_upper_20","bone":"root","attachment":"left_leg_upper_20"},
+	{"name":"right_hand_20","bone":"root","attachment":"right_hand_20"},
+	{"name":"right_arm_lower_20","bone":"root","attachment":"right_arm_lower_20"},
+	{"name":"right_arm_upper_20","bone":"root","attachment":"right_arm_upper_20"},
+	{"name":"left_hand_20","bone":"root","attachment":"left_hand_20"},
+	{"name":"left_arm_lower_20","bone":"root","attachment":"left_arm_lower_20"},
+	{"name":"left_arm_upper_20","bone":"root","attachment":"left_arm_upper_20"},
+	{"name":"torso_20","bone":"root","attachment":"torso_20"},
+	{"name":"headbase_20","bone":"root","attachment":"headbase_20"}
+],
+"skins":{
+	"default":{
+		"right_foot_20":{"right_foot_20":{"x":576.5,"y":31,"width":63,"height":54}},
+		"right_leg_lower_20":{"right_leg_lower_20":{"x":559,"y":45,"width":60,"height":66}},
+		"right_leg_upper_20":{"right_leg_upper_20":{"x":560.5,"y":105.5,"width":95,"height":95}},
+		"left_foot_20":{"left_foot_20":{"x":491.5,"y":29,"width":63,"height":52}},
+		"left_leg_lower_20":{"left_leg_lower_20":{"x":508,"y":45,"width":62,"height":66}},
+		"left_leg_upper_20":{"left_leg_upper_20":{"x":505,"y":103,"width":96,"height":96}},
+		"right_hand_20":{"right_hand_20":{"x":606,"y":107,"width":56,"height":52}},
+		"right_arm_lower_20":{"right_arm_lower_20":{"x":606,"y":153,"width":20,"height":76}},
+		"right_arm_upper_20":{"right_arm_upper_20":{"x":577.5,"y":219,"width":71,"height":84}},
+		"left_hand_20":{"left_hand_20":{"x":456.5,"y":107,"width":55,"height":52}},
+		"left_arm_lower_20":{"left_arm_lower_20":{"x":458,"y":153,"width":20,"height":76}},
+		"left_arm_upper_20":{"left_arm_upper_20":{"x":484.5,"y":219,"width":71,"height":84}},
+		"torso_20":{"torso_20":{"x":528.5,"y":185.5,"width":95,"height":161}},
+		"headbase_20":{"headbase_20":{"x":531.5,"y":357.5,"width":221,"height":261}}
+	}
+},
+"animations":{"animation":{}}
+}

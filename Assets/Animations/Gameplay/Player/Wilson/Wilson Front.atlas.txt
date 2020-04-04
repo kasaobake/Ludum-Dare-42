@@ -1,0 +1,125 @@
+
+Wilson Front.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face_00
+  rotate: false
+  xy: 2, 2
+  size: 233, 185
+  orig: 233, 185
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 476, 753
+  size: 225, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+hair_00
+  rotate: false
+  xy: 2, 568
+  size: 472, 409
+  orig: 472, 409
+  offset: 0, 0
+  index: -1
+headbase_00
+  rotate: false
+  xy: 2, 189
+  size: 345, 377
+  orig: 345, 377
+  offset: 0, 0
+  index: -1
+left_arm_lower_00
+  rotate: false
+  xy: 349, 378
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+left_arm_upper_00
+  rotate: false
+  xy: 834, 825
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+left_foot_00
+  rotate: true
+  xy: 965, 829
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+left_hand_00
+  rotate: true
+  xy: 807, 750
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+left_leg_lower_00
+  rotate: false
+  xy: 349, 300
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+left_leg_upper_00
+  rotate: false
+  xy: 237, 103
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+right_arm_lower_00
+  rotate: true
+  xy: 703, 762
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+right_arm_upper_00
+  rotate: false
+  xy: 703, 825
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+right_foot_00
+  rotate: true
+  xy: 965, 904
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+right_hand_00
+  rotate: false
+  xy: 237, 20
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+right_leg_lower_00
+  rotate: false
+  xy: 890, 747
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+right_leg_upper_00
+  rotate: false
+  xy: 349, 482
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+torso_00
+  rotate: true
+  xy: 476, 606
+  size: 145, 185
+  orig: 145, 185
+  offset: 0, 0
+  index: -1
